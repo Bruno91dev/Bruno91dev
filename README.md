@@ -1,6 +1,6 @@
-- 👋 Falaaa Galera, sou o Bruno Marques, tenho 30 anos e estou em transiçao de profissão
-- 👀 Estou empenhado em aprender e evoluir meus conhecimentos para conseguir uma oportunidade de emprego na area de programação
-- 🌱 No momento estou estudano JavaScript, CSS, HTML, NodeJS, React
+Hey Guys, I'm Bruno Marques, I'm 30 years old and I'm transitioning my profession
+I am committed to learning and evolving my knowledge to get a job opportunity in the field of programming.
+I'm currently studying JavaScript, CSS, HTML, NodeJS, React
 
 <div align="center">
   <a href="https://github.com/Bruno91dev">
