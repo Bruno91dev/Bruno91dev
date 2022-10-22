@@ -1,4 +1,4 @@
-Hey Guys, I'm Bruno Marques, I'm 30 years old and I'm transitioning my profession,
+Hey Guys, I'm Bruno Marques, I'm 31 years old and I'm transitioning my profession,
 
 I am committed to learning and evolving my knowledge to get a job opportunity in the field of programming.
 
